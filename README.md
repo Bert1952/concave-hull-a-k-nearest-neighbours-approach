@@ -5,5 +5,7 @@ Perfomance is good. Processing time ... it can be much better.
 With a huge file of points (>3000) the program might give a stackoverflow.
 the PointInPolygon function has some issues. Or points are outside the polygon and the function return False. Or the function returns True so a stackoverflow will be the result. Needs some attention.
 ![1726989127982](https://github.com/user-attachments/assets/d41cd894-71a1-4027-bf52-705621d585c1)
+![1726989817634](https://github.com/user-attachments/assets/290ae26f-1117-4aac-a835-6ff331bf247d)
+
 
 
